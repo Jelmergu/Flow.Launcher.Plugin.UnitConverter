@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "r5OichkLtd18LDdIwVHJwzrpAXzQJWDCeEGohrGxQjds6tlVLL7HKf5usyOgaFp6ehdbNN9ewoNNyg0cHL4CJw==",
+  "success": true,
+  "projectFilePath": "B:\\Dev\\CSharp\\Jelmergu.Flow.Launcher.Plugin.UnitConverter\\Jelmergu.Flow.Plugin.UnitConverter\\Jelmergu.Flow.Plugin.UnitConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jelmer\\.nuget\\packages\\flow.launcher.plugin\\1.3.0\\flow.launcher.plugin.1.3.0.nupkg.sha512",
+    "C:\\Users\\Jelmer\\.nuget\\packages\\jetbrains.annotations\\2019.1.3\\jetbrains.annotations.2019.1.3.nupkg.sha512",
+    "C:\\Users\\Jelmer\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Jelmer\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Jelmer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Jelmer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+    "ID": "01e216fb-ee3e-4fef-a19d-edac014a514e",
+    "ActionKeyword": "*",
+    "Name": "MultiunitCalculator",
+    "Description": "a new plugin for Flow",
+    "Author": "Jelmergu",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/AuthorName/Flow.Launcher.Plugin.MultiunitCalculator",
+    "IcoPath": "Image/icon.png",
+    "ExecuteFileName": "Jelmergu.Flow.Plugin.MultiunitCalculator.dll"
+}

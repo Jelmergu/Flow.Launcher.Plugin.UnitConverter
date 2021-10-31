@@ -1,0 +1,174 @@
+{
+  "format": 1,
+  "restore": {
+    "B:\\Dev\\CSharp\\Jelmergu.Flow.Launcher.Plugin.UnitConverter\\Jelmergu.Flow.Plugin.UnitConverter.Test\\Jelmergu.Flow.Plugin.UnitConverter.Test.csproj": {}
+  },
+  "projects": {
+    "B:\\Dev\\CSharp\\Jelmergu.Flow.Launcher.Plugin.UnitConverter\\Jelmergu.Flow.Plugin.UnitConverter.Test\\Jelmergu.Flow.Plugin.UnitConverter.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\Dev\\CSharp\\Jelmergu.Flow.Launcher.Plugin.UnitConverter\\Jelmergu.Flow.Plugin.UnitConverter.Test\\Jelmergu.Flow.Plugin.UnitConverter.Test.csproj",
+        "projectName": "Jelmergu.Flow.Plugin.UnitConverter.Test",
+        "projectPath": "B:\\Dev\\CSharp\\Jelmergu.Flow.Launcher.Plugin.UnitConverter\\Jelmergu.Flow.Plugin.UnitConverter.Test\\Jelmergu.Flow.Plugin.UnitConverter.Test.csproj",
+        "packagesPath": "C:\\Users\\Jelmer\\.nuget\\packages\\",
+        "outputPath": "B:\\Dev\\CSharp\\Jelmergu.Flow.Launcher.Plugin.UnitConverter\\Jelmergu.Flow.Plugin.UnitConverter.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jelmer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "B:\\Dev\\CSharp\\Jelmergu.Flow.Launcher.Plugin.UnitConverter\\Jelmergu.Flow.Plugin.UnitConverter\\Jelmergu.Flow.Plugin.UnitConverter.csproj": {
+                "projectPath": "B:\\Dev\\CSharp\\Jelmergu.Flow.Launcher.Plugin.UnitConverter\\Jelmergu.Flow.Plugin.UnitConverter\\Jelmergu.Flow.Plugin.UnitConverter.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "B:\\Dev\\CSharp\\Jelmergu.Flow.Launcher.Plugin.UnitConverter\\Jelmergu.Flow.Plugin.UnitConverter\\Jelmergu.Flow.Plugin.UnitConverter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\Dev\\CSharp\\Jelmergu.Flow.Launcher.Plugin.UnitConverter\\Jelmergu.Flow.Plugin.UnitConverter\\Jelmergu.Flow.Plugin.UnitConverter.csproj",
+        "projectName": "Jelmergu.Flow.Plugin.MultiunitCalculator",
+        "projectPath": "B:\\Dev\\CSharp\\Jelmergu.Flow.Launcher.Plugin.UnitConverter\\Jelmergu.Flow.Plugin.UnitConverter\\Jelmergu.Flow.Plugin.UnitConverter.csproj",
+        "packagesPath": "C:\\Users\\Jelmer\\.nuget\\packages\\",
+        "outputPath": "B:\\Dev\\CSharp\\Jelmergu.Flow.Launcher.Plugin.UnitConverter\\Jelmergu.Flow.Plugin.UnitConverter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jelmer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Flow.Launcher.Plugin": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

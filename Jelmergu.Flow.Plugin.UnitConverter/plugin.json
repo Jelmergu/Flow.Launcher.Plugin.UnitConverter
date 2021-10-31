@@ -1,0 +1,12 @@
+{
+    "ID": "01e216fb-ee3e-4fef-a19d-edac014a514e",
+    "ActionKeyword": "*",
+    "Name": "Unit converter",
+    "Description": "Convert Units into other units and perform basic mathmathics",
+    "Author": "Jelmergu",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/Jelmergu/Jelmergu.Flow.Plugin.UnitConverter",
+    "IcoPath": "Images\\icon_1024.png",
+    "ExecuteFileName": "Jelmergu.Flow.Plugin.UnitConverter.dll"
+}

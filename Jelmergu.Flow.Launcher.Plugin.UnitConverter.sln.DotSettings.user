@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=50091711_002D4a18_002D41ee_002D9d6a_002D0639bf3e8f12/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8370C474-D561-4BF8-AF7A-4A72A4AEFC3B::.NETCoreApp,Version=v3.1::Jelmergu.Flow.Plugin.UnitConverter.Test.Resolvers.TimeResolverTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=afe213a5_002D82af_002D47b9_002Da5dd_002D67b406e9d957/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="testWithUnknownUnit" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;And&gt;&#xD;
+    &lt;Or&gt;&#xD;
+      &lt;ProjectFolder&gt;8370C474-D561-4BF8-AF7A-4A72A4AEFC3B/d:Length&lt;/ProjectFolder&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::8370C474-D561-4BF8-AF7A-4A72A4AEFC3B::.NETCoreApp,Version=v3.1::Jelmergu.Flow.Plugin.UnitConverter.Test.Resolvers.TimeResolverTest.ResolveSecondTest&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+    &lt;/Or&gt;&#xD;
+    &lt;Not&gt;&#xD;
+      &lt;And&gt;&#xD;
+        &lt;Project Location="B:\Dev\CSharp\Jelmergu.Flow.Launcher.Plugin.UnitConverter\Jelmergu.Flow.Plugin.UnitConverter.Test" Presentation="&amp;lt;Jelmergu.Flow.Plugin.UnitConverter.Test&amp;gt;" /&gt;&#xD;
+        &lt;Namespace&gt;Jelmergu.Flow.Plugin.UnitConverter.Test.Length&lt;/Namespace&gt;&#xD;
+      &lt;/And&gt;&#xD;
+    &lt;/Not&gt;&#xD;
+  &lt;/And&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>
